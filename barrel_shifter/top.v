@@ -1,4 +1,4 @@
-module barrel(q,sel,shifted_q);
+module top(q,sel,shifted_q);
 
 input [3:0]q;
 input [1:0]sel;
